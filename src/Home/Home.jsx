@@ -25,7 +25,7 @@ const Home = () => {
         <ul className="hidden md:flex gap-6 text-white">
           <li>
             <a
-              href="https://drive.google.com/file/d/1rLkclGXjxa5NqwK2BsANitOIFIVgJOy7/view?usp=sharing"
+              href="https://drive.google.com/file/d/13qdTVWrf2cJedRiQbRFuX2n0OEtoWhjb/view?usp=sharing"
               target="_blank"
             >
               Resume
@@ -58,7 +58,7 @@ const Home = () => {
           <ul className="absolute top-20 right-6 bg-black text-white flex flex-col gap-4 p-6 rounded-lg shadow-lg md:hidden z-20">
             <li>
               <a
-                href="https://drive.google.com/file/d/1rLkclGXjxa5NqwK2BsANitOIFIVgJOy7/view?usp=sharing"
+                href="https://drive.google.com/file/d/13qdTVWrf2cJedRiQbRFuX2n0OEtoWhjb/view?usp=sharing"
                 target="_blank"
               >
                 Resume
