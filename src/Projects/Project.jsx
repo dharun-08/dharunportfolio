@@ -13,8 +13,8 @@ const projects = [
   {
     title: "Blog",
     image: Project2,
-    viewLink: "#",
-    demoLink: "#",
+    viewLink: "https://github.com/dharun-08/blog",
+    demoLink: "https://github.com/dharun-08/blog",
   },
   {
     title: "Outpatient System",
